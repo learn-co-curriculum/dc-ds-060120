@@ -20,3 +20,4 @@
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|Tools of the Trade|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/day-1-welcome/Getting-Started-with-Data-Science_After_Class.ipynb)|[video](https://wework.zoom.us/rec/share/-eZlPe2tqURLSKPC8B_TQ_YfOK7fX6a81SlM86ELyU0ZrtbYKNNS7BlH_dI6wpcK)|
