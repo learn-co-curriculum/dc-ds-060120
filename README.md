@@ -28,6 +28,5 @@
 |More Pandas|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/day-4/manipulating_data_with_pandas_full.ipynb)|[video](https://wework.zoom.com/rec/share/1eFfEJGo8GdJWbP25FnEB4MRBpS6T6a80HJN-6AEmB5s6wQWg60mrdLylhu_5_ft)
 |Restructuring Data in Pandas|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-1/Restructuring%20Data%20in%20Pandas%20-%20Murat.ipynb)|[video](https://wework.zoom.com/rec/share/xsVWHbrTxz9IBdLR1WTRXoxwRID9aaa803Me-_QEzhnAHDyngCOpMISfapZ3Qo3s)|
 |Mod 1 CRISP-DM Lab| [notebook](Mod_1_CRISP_DM-mmitchell.ipynb)|[video-from about halfway through](https://wework.zoom.com/rec/share/6ONOFeD2qjNLUpWV-WPGZrwKMLi_T6a82idM-PsIzxyjXr2wbLhs2FQ8-MNNmRnq) Password: 8M?L*4h0|
-
 |Visualize This-I| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-2/matplotlib_seaborn_murat.ipynb)|[video](https://wework.zoom.com/rec/share/6eF4FOzPqWlJQrOU2WLCC5UzDojcaaa82nMe_PoLxR6Znp5n7sUqtWtDK0ujRsK8)|
 |Visualize This-II| |[video](https://wework.zoom.com/rec/share/-OxkFJ7VrD1LaaeX5n_-R5MqHJTET6a80SlNqfYNn0lfP-raoNg53TKlzI6eZPoa)|
