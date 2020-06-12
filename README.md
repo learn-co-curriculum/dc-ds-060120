@@ -10,6 +10,17 @@
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
 | --- | --- | --- | --- | --- |
+|Alex|  | | |
+|Bobby|  | | |
+|Clair Marie|  | | |
+|Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 (Links to an external site.)| | |
+|Jake|  | | |
+|James|  | | |
+|Jim|  | | |
+|Michael|  | | |
+|Nick|  | | |
+|Raven|  | | |
+|Sam|  | | |
 
 ## Calendar
 
