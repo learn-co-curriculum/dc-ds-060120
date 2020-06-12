@@ -10,17 +10,17 @@
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
 | --- | --- | --- | --- | --- |
-|Alex|  | | |
+|Alex|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| | |
 |Bobby|  | | |
-|Clair Marie|  | | |
-|Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 (Links to an external site.)| | |
-|Jake|  | | |
-|James|  | | |
-|Jim|  | | |
-|Michael|  | | |
+|Clair Marie|https://medium.com/@clairmarie/applications-of-data-science-for-architecture-real-estate-7153ff059c6c| | |
+|Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 | | |
+|Jake|https://medium.com/@brooksjacobm/finding-zen-with-pivot-tables-in-pandas-4853da074e0f?source=friends_link&sk=eb905da77837604333fead141093ac8f | |
+|James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | | |
+|Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| | |
+|Michael|https://blog.mwang.dev/blogPost1/blogPost1.html| | |
 |Nick|  | | |
-|Raven|  | | |
-|Sam|  | | |
+|Raven|https://medium.com/@ravenwelch/cleaning-arlington-income-data-with-pandas-f849c9bf97ff?sk=6d2ccc235cbf109b91f12c4a019e27f6| | |
+|Sam|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| | |
 
 ## Calendar
 
@@ -41,3 +41,5 @@
 |Mod 1 CRISP-DM Lab| [notebook](Mod_1_CRISP_DM-mmitchell.ipynb)|[video-from about halfway through](https://wework.zoom.com/rec/share/6ONOFeD2qjNLUpWV-WPGZrwKMLi_T6a82idM-PsIzxyjXr2wbLhs2FQ8-MNNmRnq) Password: 8M?L*4h0|
 |Visualize This-I| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-2/matplotlib_seaborn_murat.ipynb)|[video](https://wework.zoom.com/rec/share/6eF4FOzPqWlJQrOU2WLCC5UzDojcaaa82nMe_PoLxR6Znp5n7sUqtWtDK0ujRsK8)|
 |Visualize This-II| |[video](https://wework.zoom.com/rec/share/-OxkFJ7VrD1LaaeX5n_-R5MqHJTET6a80SlNqfYNn0lfP-raoNg53TKlzI6eZPoa)|
+|Branching out in Git|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-5-git-branching-merging-lab/index.ipynb)|[video](https://wework.zoom.com/rec/share/3NV8DrThqlpLWYGW8WfTePB7Idv8T6a8h3QZqaYMz0-52rQNIm4sQxy1pCsRENcE) Password: 1J*+Ou11|
+|Webscraping|[notebook]()|[video]()
