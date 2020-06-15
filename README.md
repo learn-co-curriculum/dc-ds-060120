@@ -18,7 +18,7 @@
 |James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | | |
 |Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| | |
 |Michael|https://blog.mwang.dev/blogPost1/blogPost1.html| | |
-|Nick|  | | |
+|Nick|https://medium.com/@npardue/lets-git-it-32f963e70308?source=friends_link&sk=bd40bbcc202358b7bc0e2bafbdca7bb3| | |
 |Raven|https://medium.com/@ravenwelch/cleaning-arlington-income-data-with-pandas-f849c9bf97ff?sk=6d2ccc235cbf109b91f12c4a019e27f6| | |
 |Sam|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| | |
 
