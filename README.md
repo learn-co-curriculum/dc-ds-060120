@@ -41,5 +41,7 @@
 |Mod 1 CRISP-DM Lab| [notebook](Mod_1_CRISP_DM-mmitchell.ipynb)|[video-from about halfway through](https://wework.zoom.com/rec/share/6ONOFeD2qjNLUpWV-WPGZrwKMLi_T6a82idM-PsIzxyjXr2wbLhs2FQ8-MNNmRnq) Password: 8M?L*4h0|
 |Visualize This-I| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-2/matplotlib_seaborn_murat.ipynb)|[video](https://wework.zoom.com/rec/share/6eF4FOzPqWlJQrOU2WLCC5UzDojcaaa82nMe_PoLxR6Znp5n7sUqtWtDK0ujRsK8)|
 |Visualize This-II| |[video](https://wework.zoom.com/rec/share/-OxkFJ7VrD1LaaeX5n_-R5MqHJTET6a80SlNqfYNn0lfP-raoNg53TKlzI6eZPoa)|
+|Intro to Data Engineering|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-3-databases-sql/sql-to-pandas.ipynb)|[video](https://wework.zoom.us/rec/share/2eBJconT6FFLX4XC4UXgdJweNJrLT6a8g3JN86cEnk8N5QC4DxTmOYQQH9n6TY4A)|
+|JSON - API’s|[notebook]()|[video](https://wework.zoom.com/rec/share/5elHNbXq1lxOftbv82fjS7UeGZmiT6a81XUa8vMLyhzikALm6RH_q6EeWgp1mXGT)|
 |Branching out in Git|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-5-git-branching-merging-lab/index.ipynb)|[video](https://wework.zoom.com/rec/share/3NV8DrThqlpLWYGW8WfTePB7Idv8T6a8h3QZqaYMz0-52rQNIm4sQxy1pCsRENcE) Password: 1J*+Ou11|
-|Webscraping|[notebook]()|[video]()
+|Webscraping|[notebook](webscraping_060120.ipynb)|[video](https://wework.zoom.com/rec/share/wZYuBe7ZyWVJAY302EPNebF9QoXVaaa8hCcf_fdYxUf2KyNrkvt4mKSd8I8dgJ-2)|
