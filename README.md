@@ -45,3 +45,10 @@
 |JSON - API’s|[notebook]()|[video](https://wework.zoom.com/rec/share/5elHNbXq1lxOftbv82fjS7UeGZmiT6a81XUa8vMLyhzikALm6RH_q6EeWgp1mXGT)|
 |Branching out in Git|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-1/week-2/day-5-git-branching-merging-lab/index.ipynb)|[video](https://wework.zoom.com/rec/share/3NV8DrThqlpLWYGW8WfTePB7Idv8T6a8h3QZqaYMz0-52rQNIm4sQxy1pCsRENcE) Password: 1J*+Ou11|
 |Webscraping|[notebook](webscraping_060120.ipynb)|[video](https://wework.zoom.com/rec/share/wZYuBe7ZyWVJAY302EPNebF9QoXVaaa8hCcf_fdYxUf2KyNrkvt4mKSd8I8dgJ-2)|
+
+# Module 2
+
+| Topic                                  | Code                | Video                |
+|Distributions |[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Random-Variables/Distributions-060120.ipynb) |[video](https://wework.zoom.com/rec/share/151xDejO0ERLRKf972PjBqssBqDVaaa8hHJMr6UMyhuRP-6zXJYZQHkGeyVcw_Es)|
+|Probability | [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Probability/Probability-Basics-060120.ipynb)|[video](https://wework.zoom.com/rec/share/2sBTLpTB-VFOfKvOuBuOA_58IKa9X6a80Xcf8_YOxUbjbumtghjwOGbS16xoXP9-)|
+|:---|:---|:---|
