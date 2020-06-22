@@ -49,6 +49,7 @@
 # Module 2
 
 | Topic                                  | Code                | Video                |
+|:---|:---|:---|
 |Distributions |[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Random-Variables/Distributions-060120.ipynb) |[video](https://wework.zoom.com/rec/share/151xDejO0ERLRKf972PjBqssBqDVaaa8hHJMr6UMyhuRP-6zXJYZQHkGeyVcw_Es)|
 |Probability | [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Probability/Probability-Basics-060120.ipynb)|[video](https://wework.zoom.com/rec/share/2sBTLpTB-VFOfKvOuBuOA_58IKa9X6a80Xcf8_YOxUbjbumtghjwOGbS16xoXP9-)|
-|:---|:---|:---|
+
