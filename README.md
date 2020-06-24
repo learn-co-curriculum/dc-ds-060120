@@ -10,7 +10,7 @@
 ## Blogs
 |  Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
 | --- | --- | --- | --- | --- |
-|Alex|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| | |
+|Alex|https://medium.com/@alexandernewton_72100/using-gtd-productivity-method-to-understand-data-science-lifecycles-like-crisp-dm-990ffbf2b965?sk=b52ef2e5fc726223455ddc55d4715370| | |
 |Bobby|  | | |
 |Clair Marie|https://medium.com/@clairmarie/applications-of-data-science-for-architecture-real-estate-7153ff059c6c| | |
 |Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 | | |
@@ -52,4 +52,6 @@
 |:---|:---|:---|
 |Distributions |[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Random-Variables/Distributions-060120.ipynb) |[video](https://wework.zoom.com/rec/share/151xDejO0ERLRKf972PjBqssBqDVaaa8hHJMr6UMyhuRP-6zXJYZQHkGeyVcw_Es)|
 |Probability | [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Probability/Probability-Basics-060120.ipynb)|[video](https://wework.zoom.com/rec/share/2sBTLpTB-VFOfKvOuBuOA_58IKa9X6a80Xcf8_YOxUbjbumtghjwOGbS16xoXP9-)|
+|Central Limit Theorem|[notebook]()|[video]()|
+|Hypothesis Testing|[notebook]()|Part-I](https://wework.zoom.com/rec/share/4pZZAL_23X5OX6vu4n2BUZwmNZy4aaa8h3JLqPFYmUfqEqq6rAdjpfdAiHK1qhlV) Password 5t^7fnX4 [Part-II](https://wework.zoom.com/rec/share/wuVHcrWt_WRIcLfQ1liEWr8MRqW0eaa8gScW__Beyhkv_Oy336_rv4sdkF1jaLVu) Password: 1s=M2!@V|
 
