@@ -53,5 +53,5 @@
 |Distributions |[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Random-Variables/Distributions-060120.ipynb) |[video](https://wework.zoom.com/rec/share/151xDejO0ERLRKf972PjBqssBqDVaaa8hHJMr6UMyhuRP-6zXJYZQHkGeyVcw_Es)|
 |Probability | [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-1-Probability-Distributions/Probability/Probability-Basics-060120.ipynb)|[video](https://wework.zoom.com/rec/share/2sBTLpTB-VFOfKvOuBuOA_58IKa9X6a80Xcf8_YOxUbjbumtghjwOGbS16xoXP9-)|
 |Central Limit Theorem|[notebook]()|[video]()|
-|Hypothesis Testing|[notebook]()|Part-I](https://wework.zoom.com/rec/share/4pZZAL_23X5OX6vu4n2BUZwmNZy4aaa8h3JLqPFYmUfqEqq6rAdjpfdAiHK1qhlV) Password 5t^7fnX4 [Part-II](https://wework.zoom.com/rec/share/wuVHcrWt_WRIcLfQ1liEWr8MRqW0eaa8gScW__Beyhkv_Oy336_rv4sdkF1jaLVu) Password: 1s=M2!@V|
+|Hypothesis Testing|[notebook]()|[Part-I](https://wework.zoom.com/rec/share/4pZZAL_23X5OX6vu4n2BUZwmNZy4aaa8h3JLqPFYmUfqEqq6rAdjpfdAiHK1qhlV) Password 5t^7fnX4 [Part-II](https://wework.zoom.com/rec/share/wuVHcrWt_WRIcLfQ1liEWr8MRqW0eaa8gScW__Beyhkv_Oy336_rv4sdkF1jaLVu) Password: 1s=M2!@V|
 
