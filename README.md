@@ -56,4 +56,6 @@
 |Hypothesis Testing|[notebook]()|[Part-I](https://wework.zoom.com/rec/share/4pZZAL_23X5OX6vu4n2BUZwmNZy4aaa8h3JLqPFYmUfqEqq6rAdjpfdAiHK1qhlV) Password 5t^7fnX4 [Part-II](https://wework.zoom.com/rec/share/wuVHcrWt_WRIcLfQ1liEWr8MRqW0eaa8gScW__Beyhkv_Oy336_rv4sdkF1jaLVu) Password: 1s=M2!@V|
 |Power & Effect Size|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-4-Effect-Size-Power/Effect_Sizes_Power_060120_after.ipynb)    | [Part-I](https://wework.zoom.com/rec/share/4NFYJOH-919LWKPTq2zQVrN5EoWieaa80SUbq_oImU750ONQL4f5AgebNIN66ayx) [Part-II](https://wework.zoom.com/rec/share/7OVKf6nK8EBIHImV-B-cfKU4HajDaaa81SRMrKYJyEb8ItjkePDi-nlYfCE536bH)      |
 |Hypothesis Testing Lab| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-4-Lab_Hypothesis-Testing/hypothesis_coach_lab-student-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/9cNSNO3TyD1LaZHd8lODY7QvL97Leaa81CBK_6UOxU5XYzglT24lvNHCxkz0XY3Z)|
+|Bayes Theorem|      |        |
+|Simple Linear Regression|  |[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/week-2/day-1-Simple_Linear_Regression/simple_linear_regression-student_version-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/opxvKZHI9EBLcoXGzBngc_4OMNvnaaa80ShL-qBZxH_04DRIXiBIJKj29CfPgww)
 
