@@ -59,4 +59,5 @@
 |Bayes Theorem|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/day-5-Bayes-Theorem/bayes-060120-After.ipynb)      | [video](https://wework.zoom.com/rec/share/vdx6Pqvt1WBLWpXT7GaAZJUBO9vgeaa81SUbrKYNnu1bS1VtjXa91aJY8kuORAQ)       |
 |Simple Linear Regression| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/week-2/day-1-Simple_Linear_Regression/simple_linear_regression-student_version-mmitchell.ipynb)|[video](https://wework.zoom.com/rec/share/opxvKZHI9EBLcoXGzBngc_4OMNvnaaa80ShL-qBZxH_04DRIXiBIJKj29CfPgww)|
 |Multiple Linear Regression|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/week-2/day-2-Multiple_Linear_Regression/MultipleLinear_Regression-student_version.ipynb)|[video](https://wework.zoom.com/rec/share/2eh3c5rVyE5IHoHX1E3-XfUYIpnJX6a8gSUf-PoKzhq7dz_l5Chog3LR_n8NhixK)|
+|Polynomial Regression| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/extra_lectures/Polynomial_Regression-060120.ipynb)|[video](https://wework.zoom.com/rec/share/xM11F67-qj1LYtLS2EraWbwZDJm7aaa8hHUf_vQMz0aCCluHZ0MyfRpYLps3HaMz)|
 
