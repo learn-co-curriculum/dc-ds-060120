@@ -15,7 +15,7 @@
 |Clair Marie|https://medium.com/@clairmarie/applications-of-data-science-for-architecture-real-estate-7153ff059c6c| https://medium.com/@clairmarie/exploratory-data-analysis-of-green-building-market-share-using-pandas-matplotlib-5404ead3f5d8 | |
 |Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 |https://medium.com/@danhalesprogramming/making-sense-of-sampling-distributions-39598b575fbe?source=friends_link&sk=b39ee7a48148a9031d97fc1596881d62 | |
 |Jake|https://medium.com/@brooksjacobm/finding-zen-with-pivot-tables-in-pandas-4853da074e0f?source=friends_link&sk=eb905da77837604333fead141093ac8f |https://levelup.gitconnected.com/solve-and-understand-the-project-euler-problems-in-python-introduction-and-problems-1-3-32625d1633f7?source=friends_link&sk=2ee04af8ce5ecdf7be89ac3a47ecae38 |
-|James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | https://medium.com/@shawjr3/carin-about-karen-being-frank-about-frank-c7d36e19dee5 (Links to an external site.)| |
+|James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | https://medium.com/@shawjr3/carin-about-karen-being-frank-about-frank-c7d36e19dee5 | |
 |Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| https://medium.com/@jrf6xh/making-maps-in-python-8dcb6d4d4451 | |
 |Michael|https://blog.mwang.dev/blogPost1/blogPost1.html| | |
 |Nick|https://medium.com/@npardue/lets-git-it-32f963e70308?source=friends_link&sk=bd40bbcc202358b7bc0e2bafbdca7bb3| | |
