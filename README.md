@@ -11,16 +11,18 @@
 |  Name | Blog #1 Link | Blog #2 Link | Blog #3 Link | Blog #4 Link |
 | --- | --- | --- | --- | --- |
 |Alex|https://medium.com/@alexandernewton_72100/using-gtd-productivity-method-to-understand-data-science-lifecycles-like-crisp-dm-990ffbf2b965?sk=b52ef2e5fc726223455ddc55d4715370| | |
-|Bobby|  | | |
-|Clair Marie|https://medium.com/@clairmarie/applications-of-data-science-for-architecture-real-estate-7153ff059c6c| | |
-|Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 | | |
-|Jake|https://medium.com/@brooksjacobm/finding-zen-with-pivot-tables-in-pandas-4853da074e0f?source=friends_link&sk=eb905da77837604333fead141093ac8f | |
+|Bobby| https://medium.com/@bobby.j.williams/using-data-to-join-the-conversation-2b04e834e1f1?sk=f7120f9c77f4f40ee5d45e0e689d20be
+
+ | https://medium.com/@bobby.j.williams/python-and-process-control-pt-1-ff2978b8901a?sk=7457cc32a0d848b5420c7090ca848449 | |
+|Clair Marie|https://medium.com/@clairmarie/applications-of-data-science-for-architecture-real-estate-7153ff059c6c| https://medium.com/@clairmarie/exploratory-data-analysis-of-green-building-market-share-using-pandas-matplotlib-5404ead3f5d8 | |
+|Dan|https://medium.com/@danhalesprogramming/a-python-style-set-in-simple-java-698977f1b5d0 |https://medium.com/@danhalesprogramming/making-sense-of-sampling-distributions-39598b575fbe?source=friends_link&sk=b39ee7a48148a9031d97fc1596881d62 | |
+|Jake|https://medium.com/@brooksjacobm/finding-zen-with-pivot-tables-in-pandas-4853da074e0f?source=friends_link&sk=eb905da77837604333fead141093ac8f |https://levelup.gitconnected.com/solve-and-understand-the-project-euler-problems-in-python-introduction-and-problems-1-3-32625d1633f7?source=friends_link&sk=2ee04af8ce5ecdf7be89ac3a47ecae38 |
 |James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | | |
-|Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| | |
+|Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| https://medium.com/@jrf6xh/making-maps-in-python-8dcb6d4d4451 | |
 |Michael|https://blog.mwang.dev/blogPost1/blogPost1.html| | |
 |Nick|https://medium.com/@npardue/lets-git-it-32f963e70308?source=friends_link&sk=bd40bbcc202358b7bc0e2bafbdca7bb3| | |
 |Raven|https://medium.com/@ravenwelch/cleaning-arlington-income-data-with-pandas-f849c9bf97ff?sk=6d2ccc235cbf109b91f12c4a019e27f6| | |
-|Sam|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| | |
+|Sam|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| https://medium.com/@HeeebsInc/using-ai-to-hack-your-fantasy-lineup-2fe022886769#flatironschool | |
 
 ## Calendar
 
