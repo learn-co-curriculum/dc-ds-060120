@@ -63,3 +63,11 @@
 |Cross-Validation-Train-Test-Split| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/train-test-split/Train-test-split.ipynb)|[video](https://wework.zoom.com/rec/share/vcV7A5_S32BJGIn2-E-OBekDHq-4eaa8gCYfqfJcnUkgvOZM19VmgyGsTByRi-bS)|
 |Bias-Variance|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-2/extra_lectures/Bias-Variance/Bias_Variance.ipynb)|[video](https://wework.zoom.com/rec/share/x5BfEpTU7kBLH6vjq0_eYbMnAIq1eaa8gXQf8voMzhuivhcA9aFZlKDGk67e0nXf)|
 
+# Module 3
+
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+|OOP|[notebook](OOP-Blueprints-060120.ipynb)|[video]()|
+|Lasso & Ridge|[notebook](https://github.com/learn-co-students/dc-ds-060120/tree/master/mod-3/week-1/day-2-Lasso-Ridge/regularization)|[video]()|
+|Intro to ML |[SlideDeck](https://docs.google.com/presentation/d/1T13FnqceiuO-4cENaVZz_X5neVRGoj_Of8bQpy2d5Tg/edit?usp=sharing)|[video](https://wework.zoom.com/rec/share/uZ1cLpHU6kZLZM_uuG3ec4gPJ93Jeaa81XVP_6cInR7i1RlO8hHWuB6i03IOBlMq)|
+|Logistic Regression|[notebook](https://github.com/learn-co-students/dc-ds-060120/tree/master/mod-3/week-1/day-3-Logistic_Regression)|[video](https://wework.zoom.com/rec/share/-MB6IonsyTJIYa_n6RjVR6oYJYbVeaa8hnAYr6AJxUjpRoKm9njK0IdOe4i0QjHI)|
