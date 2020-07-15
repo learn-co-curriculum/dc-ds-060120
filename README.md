@@ -17,8 +17,8 @@
 |Jake|https://medium.com/@brooksjacobm/finding-zen-with-pivot-tables-in-pandas-4853da074e0f?source=friends_link&sk=eb905da77837604333fead141093ac8f |https://levelup.gitconnected.com/solve-and-understand-the-project-euler-problems-in-python-introduction-and-problems-1-3-32625d1633f7?source=friends_link&sk=2ee04af8ce5ecdf7be89ac3a47ecae38 |
 |James| https://medium.com/swlh/where-the-child-strings-are-aa166b6623d6?source=friends_link&sk=63e8c325f7f11e2c8b43b2e44a887ab9 | https://medium.com/@shawjr3/carin-about-karen-being-frank-about-frank-c7d36e19dee5 | |
 |Jim|https://medium.com/@jrf6xh/exploring-spotify-data-with-pandas-a269704b84bd?sk=be9986bd963bdacf61008ace3ad30cce| https://medium.com/@jrf6xh/making-maps-in-python-8dcb6d4d4451 | |
-|Michael|https://blog.mwang.dev/blogPost1/blogPost1.html| | |
-|Nick|https://medium.com/@npardue/lets-git-it-32f963e70308?source=friends_link&sk=bd40bbcc202358b7bc0e2bafbdca7bb3| | |
+|Michael|https://blog.mwang.dev/blogPost1/blogPost1.html|https://blog.mwang.dev/blogPost2/blogPost2.html| |
+|Nick|https://medium.com/@npardue/lets-git-it-32f963e70308?source=friends_link&sk=bd40bbcc202358b7bc0e2bafbdca7bb3|https://parduedatascience.wordpress.com/2020/07/10/bootstrapping-for-data-science/ | |
 |Raven|https://medium.com/@ravenwelch/cleaning-arlington-income-data-with-pandas-f849c9bf97ff?sk=6d2ccc235cbf109b91f12c4a019e27f6| | |
 |Sam|https://medium.com/@HeeebsInc/using-machine-learning-to-predict-daily-fantasy-basketball-scores-part-i-811de3c54a98| https://medium.com/@HeeebsInc/using-ai-to-hack-your-fantasy-lineup-2fe022886769#flatironschool | |
 
