@@ -71,3 +71,4 @@
 |Lasso & Ridge|[notebook](https://github.com/learn-co-students/dc-ds-060120/tree/master/mod-3/week-1/day-2-Lasso-Ridge/regularization)|[Part I](https://youtu.be/J_QdxkCtzdw) [Part II](https://youtu.be/qBAmpiPUuyM)|
 |Intro to ML |[SlideDeck](https://docs.google.com/presentation/d/1T13FnqceiuO-4cENaVZz_X5neVRGoj_Of8bQpy2d5Tg/edit?usp=sharing)|[video](https://wework.zoom.com/rec/share/uZ1cLpHU6kZLZM_uuG3ec4gPJ93Jeaa81XVP_6cInR7i1RlO8hHWuB6i03IOBlMq)|
 |Logistic Regression|[notebook](https://github.com/learn-co-students/dc-ds-060120/tree/master/mod-3/week-1/day-3-Logistic_Regression)|[video](https://wework.zoom.com/rec/share/-MB6IonsyTJIYa_n6RjVR6oYJYbVeaa8hnAYr6AJxUjpRoKm9njK0IdOe4i0QjHI)|
+|Math in the Machine|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-1/day-4-Math_in_the_machine/Math_in_the_machine-mmitchel.ipynb)|[video](https://youtu.be/KXyu_NZnWOA)|
