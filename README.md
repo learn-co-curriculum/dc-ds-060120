@@ -74,3 +74,4 @@
 |Math in the Machine|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-1/day-4-Math_in_the_machine/Math_in_the_machine-mmitchel.ipynb)|[video](https://youtu.be/KXyu_NZnWOA)|
 |Classification Metrics| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-1/day-5-Classification_Metrics/classification-mmitchell.ipynb)|[video](https://youtu.be/McI-T1RUjFA)|
 |KNN| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-1-KNN/knn_classification-mmitchell.ipynb)|[video](https://youtu.be/WbGFyjigUs8)|
+|Decision Trees| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-3-Decision_trees/Decision-Trees-mmitchell.ipynb)|[video](https://youtu.be/02BexmkEvtc)
