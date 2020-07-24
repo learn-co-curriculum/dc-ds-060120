@@ -75,4 +75,5 @@
 |Classification Metrics| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-1/day-5-Classification_Metrics/classification-mmitchell.ipynb)|[video](https://youtu.be/McI-T1RUjFA)|
 |KNN| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-1-KNN/knn_classification-mmitchell.ipynb)|[video](https://youtu.be/WbGFyjigUs8)|
 |Naive Bayes & Pipelines|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-2-Pipelines/pipelines-mmitchell.ipynb)|[video](https://youtu.be/x4BQnwusPMA)|
-|Decision Trees| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-3-Decision_trees/Decision-Trees-mmitchell.ipynb)|[video](https://youtu.be/02BexmkEvtc)
+|Decision Trees| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-3-Decision_trees/Decision-Trees-mmitchell.ipynb)|[video](https://youtu.be/02BexmkEvtc)|
+|Model Tuning|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-4-Hyperparameter_Tuning/Hyperparameter_Tuning_Lecture-mmitchell.ipynb)|[video](https://youtu.be/junXZq7tKks)|
