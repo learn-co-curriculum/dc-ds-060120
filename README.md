@@ -78,3 +78,10 @@
 |Decision Trees| [notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-3-Decision_trees/Decision-Trees-mmitchell.ipynb)|[video](https://youtu.be/02BexmkEvtc)|
 |Model Tuning|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-4-Hyperparameter_Tuning/Hyperparameter_Tuning_Lecture-mmitchell.ipynb)|[video](https://youtu.be/junXZq7tKks)|
 |Ensemble Methods|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-3/week-2/day-5-Ensemble_Methods/Ensemble_Methods-mmitchell.ipynb)|[video](https://youtu.be/LeGyL8arlqU)|
+
+
+# Module 4
+
+| Topic                                  | Code                | Video                |
+|:---|:---|:---|
+|PCA|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-4/week-1/PCA/PCA-mmitchell.ipynb)|[video](https://flatironschool.zoom.us/rec/play/vJ0kIrj9pjo3HIecsASDBfF9W9XuKf2shHBI86cMn0i0B3kDN1Wnb-NBYuU5GpV2Joz1pxukyuiJfami?continueMode=true&_x_zm_rtaid=VUzfveP2TlKfmZQdxYn7jw.1596476944440.8046372ff42314f6833f2507d6c9c4b2&_x_zm_rhtaid=986)|
