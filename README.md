@@ -85,3 +85,5 @@
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 |PCA|[notebook](https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-4/week-1/PCA/PCA-mmitchell.ipynb)|[video](https://flatironschool.zoom.us/rec/play/vJ0kIrj9pjo3HIecsASDBfF9W9XuKf2shHBI86cMn0i0B3kDN1Wnb-NBYuU5GpV2Joz1pxukyuiJfami?continueMode=true&_x_zm_rtaid=VUzfveP2TlKfmZQdxYn7jw.1596476944440.8046372ff42314f6833f2507d6c9c4b2&_x_zm_rhtaid=986)|
+|Clustering|  | |
+|PySpark|[notebook(https://github.com/learn-co-students/dc-ds-060120/blob/master/mod-4/week-1/Big_Data-PySpark/Spark-mmitchell.ipynb)|[video](https://flatironschool.zoom.us/rec/play/6Zwudu36rTw3S4aW5ASDAvB9W427Kq2s0CZP8_oIxRm0UHcKOwbwN7FENrTl2O7cNX8SjCtesy0dwmB7)
